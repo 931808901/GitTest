@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Document</title>
+		<script src = "ajax.js"></script>
+		<script>
+			/*
+				bejson.com
+			*/
+			window.onload = function(){
+				var oBtn = document.getElementById("btn");
+				var oUl = document.getElementById("ul1");
+
+				oBtn.onclick = function(){
+					ajax({
+						method: "get",
+						url: "getNews.php",
+						success: function(data){
+							var arr = JSON.parse(data);
+							//创建节点，添加到页面上
+							for(var i = 0; i < arr.length; i++){
+								var aLi = document.createElement("li");
+								var aA = document.createElement("a");
+								aA.href = "#";
+								aA.innerHTML = arr[i].title + "【" + arr[i].date+ "】";
+								aLi.appendChild(aA);
+								oUl.appendChild(aLi);
+							}
+						}
+					})
+				}
+			}
+		</script>
+	</head>
+	<body>
+		<input type = "button" value = "下载" id = "btn" />
+		<ul id = "ul1">
+		</ul>
+	</body>
+</html>
