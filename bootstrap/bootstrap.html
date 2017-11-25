@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+		<link rel="stylesheet" href="css/bootstrap.css">
+		<title>Document</title>
+		<style>
+			div[class*="col-"]{border: 1px solid blue; height: 50px; background-color: gray; color: white}
+			.progress-bar{
+				width:0%;
+			}
+			.progress{width: 400px;height: 30px;margin: 50px auto;line-height: 30px}
+		</style>
+		<script src = "js/jquery-1.11.1.js"></script>
+		<script src = "js/bootstrap.js"></script>
+		<script>
+			window.onload=function(){
+				var i=0;
+				var oBar= document.getElementById('bar');
+				var oBtn = document.getElementById('btn');
+				oBtn.onclick=function(){
+					var id=setInterval(function(){
+						i++;
+						// alert(i/100*100%);
+						oBar.style.width=i+'%';
+						oBar.innerHTML=i+'%';
+						if (i==100) {
+							clearInterval(id);
+						}
+					},100)
+				}
+			}
+		</script>
+	</head>
+	<body>
+		<input type="button" id='btn' value="下载" />
+		<div class="progress">
+			<div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" id="bar">
+			0%
+			</div>
+		</div>
+		<!-- Button trigger modal -->
+		<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
+		  Launch demo modal
+		</button>
+	</body>
+</html>

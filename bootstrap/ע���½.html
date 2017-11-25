@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+		<link rel="stylesheet" href="css/bootstrap.css">
+		<link rel="stylesheet" href="css/buttons.css">
+		<title>注册百度账号</title>
+		<script src = "js/jquery-1.11.1.js"></script>
+		<script src = "js/bootstrap.js"></script>
+		<style>
+			*{margin: 0px}
+			#head{width: 1080px;height: 55px;margin: 0px auto}
+			div #logo{width:280px;height:55px;background: url(img/log.png)  no-repeat center center; float: left;}
+			#login{padding-top: 20px;}
+			#whole{width: 1050px;height: 370px; border: none; margin-left: 140px;margin-top: 60px;}
+			#register{width: 760px;height: 370px;float: left;}
+			#register input{width: 350px;height: 40px}
+			.register-content{width: 450px;height: 60px;float: left;}
+			.register-check{width: 260px;height: 60px;float: left;display: none;}
+			#phone-register{width: 260px;height: 370px;float: left;}
+			#phone-register div{width: 240px;height: 200px;border: 1px solid rgb(205,239,255);}
+			.white_content { 
+                display: block; 
+                position: absolute; 
+                top: 25%; 
+                left: 25%; 
+                width: 390px; 
+                height: 415px;  
+                background-color: green; 
+            }
+
+			
+		</style>
+		<script src = "js/jquery-1.11.1.js"></script>
+		<script src = "js/bootstrap.js"></script>
+		<script>
+			window.onload=function(){
+				var oRG =document.getElementById('register');
+				var oInput =oRG.getElementsByTagName('input');
+				var oDs=oRG.getElementsByClassName('register-check');
+				for(var i=0;i<4;i++){
+					oInput[i].index=i;
+					var offsetY = 0;
+					oInput[i].onfocus=function(ev){
+						oDs[this.index].style.display='block';
+					}
+					oInput[i].onblur=function(){
+						oDs[this.index].style.display='none';
+
+					}
+				}
+			}
+		</script>
+	</head>
+	<body>
+		<!-- //头部 -->
+		<div id="head">
+			<div id="logo"></div>
+			<div id="login">
+				<input type = "button" value = "登录" class = "btn btn-default pull-right" />
+				<span class = "text-info pull-right" style="padding-top: 10px;color: rgb(102,101,96);">我已注册，现在就&nbsp;</span>
+			</div>
+		</div>
+
+		<hr style="width: 1100px;margin: 10px auto" />
+		<div id='whole'>
+			<div class="container-fluid content" id='register'>
+				<div class="register-content">
+					<span class = "text-info pull-left" style="padding-top: 10px;color: rgb(102,101,96);font-size: 16px"><b>用户名&emsp;</b></span>
+					<input type = "text" class = "form-control" placeholder="设置用户名" />
+				</div>
+				<div class="register-check">
+					设置后不可更改
+					<br />
+					中英文均可，最长14个英文或7个汉字
+				</div>
+				<div class="register-content">
+					<span class = "text-info pull-left" style="padding-top: 10px;color: rgb(102,101,96);font-size: 16px"><b>手机号&emsp;</b></span>
+					<input type = "text" class = "form-control" placeholder="可用于登陆和找回密码" />
+				</div>
+				<div class="register-check">
+					请输入中国大陆手机号码，其他用户不可见
+				</div>
+				<div class="register-content">
+					<span class = "text-info pull-left" style="padding-top: 10px;color: rgb(102,101,96);font-size: 16px"><b>验证码&emsp;</b></span>
+					<input type = "text" class = "form-control" placeholder="请输入验证码" />
+				</div>
+				<div class="register-check"></div>
+				<div class="register-content">
+					<span class = "text-info pull-left" style="padding-top: 10px;color: rgb(102,101,96);font-size: 16px"><b>&emsp;密码&emsp;</b></span>
+					<input type = "password" class = "form-control" placeholder="请设置登陆密码" />
+				</div>
+				<div class="register-check">
+					长度为6-14个字符
+					<br />
+					支持数字大小写字母和标点符号
+					<br />
+					不允许有空格
+				</div>
+				<div class="register-content">
+					<span style="font-size: 12px;">
+	        		<input type="checkbox" style="width: 12px;height: 12px;margin-left: 64px;" >
+	        		阅读并接受《百度用户协议》及《百度隐私权保护声明》
+      				</span>
+				</div>
+				<div class="register-content">
+					<input type = "button" value = "注册" class = "btn btn-primary" style="margin-left: 64px" />
+				</div>
+
+			</div>
+			<div class="phone-register " id="phone-register">
+				<div class="reg-sms">
+					<h4 class="reg-sms-title glyphicon glyphicon-phone text-primary">手机快速注册</h4>
+					<div class="reg-sms-content">
+						<p class="reg-sms-p reg-sms-p-text">请使用中国大陆手机号，编辑短信：</p>
+						<p class="reg-sms-p text-warning"><b>6-14位字符（支持数字/字母/符号）</b></p>
+						<p class="reg-sms-p reg-sms-p-text">作为登录密码，发送至：</p>
+						<p class="reg-sms-p text-warning"><b>1069 0691 036590</b></p>
+						<p class="reg-sms-p reg-sms-p-last">即可注册成功，手机号即为登录帐号。</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+	</body>
+</html>

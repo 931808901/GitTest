@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+		<link rel="stylesheet" href="css/bootstrap.css">
+		<title>注册百度账号</title>
+		<style>
+			*{margin: 0px}
+			#head{width: 1080px;height: 55px;margin: 0px auto}
+			div #logo{width:280px;height:55px;background: url(img/log.png)  no-repeat center center; float: left;}
+			#login{padding-top: 20px;}
+			#whole{width: 1000px;height: 370px; border: none; margin-left: 180px;margin-top: 60px;}
+			#register{width: 450px;height: 370px;float: left;}
+			#register input{width: 350px;height: 40px}
+			#check{width: 270px;height: 370px;float: left;}
+			#check div{display: none;height: 40px;text-align:left;width: 270px;position: absolute;}
+
+		</style>
+		<script src = "js/jquery-1.11.1.js"></script>
+		<script src = "js/bootstrap.js"></script>
+		<script>
+			window.onload=function(){
+				var oRG =document.getElementById('register');
+				var oInput =oRG.getElementsByTagName('input');
+				var oDiv =document.getElementById('check');
+				var oDs=oDiv.getElementsByTagName('div');
+				for(var i=0;i<4;i++){
+					oInput[i].index=i;
+					var offsetY = 0;
+					oInput[i].onfocus=function(ev){
+						oDs[this.index].style.display='block';
+
+						oDs[this.index].style.top=oDs[this.index].offsetTop+'px';
+						// alert('oDs'+oDs[this.index].offsetTop);
+						// alert('ev'+ev.clientY);
+					}
+					oInput[i].onblur=function(){
+						oDs[this.index].style.display='none';
+
+					}
+				}
+			}
+		</script>
+	</head>
+	<body>
+		<!-- //头部 -->
+		<div id="head">
+			<div id="logo"></div>
+			<div id="login">
+				<input type = "button" value = "登录" class = "btn btn-default pull-right" />
+				<span class = "text-info pull-right" style="padding-top: 10px;color: rgb(102,101,96);">我已注册，现在就&nbsp;</span>
+			</div>
+		</div>
+
+		<hr style="width: 1100px;margin: 10px auto" />
+		<div id='whole'>
+			<div class="container-fluid content" id='register'>
+				<span class = "text-info pull-left" style="padding-top: 10px;color: rgb(102,101,96);font-size: 16px"><b>用户名&emsp;</b></span>
+				<input type = "text" class = "form-control" placeholder="设置用户名" />
+				<br />
+				<span class = "text-info pull-left" style="padding-top: 10px;color: rgb(102,101,96);font-size: 16px"><b>手机号&emsp;</b></span>
+				<input type = "text" class = "form-control" placeholder="可用于登陆和找回密码" />
+				<br />
+				<span class = "text-info pull-left" style="padding-top: 10px;color: rgb(102,101,96);font-size: 16px"><b>验证码&emsp;</b></span>
+				<input type = "text" class = "form-control" placeholder="请输入验证码" />
+				<br />
+				<span class = "text-info pull-left" style="padding-top: 10px;color: rgb(102,101,96);font-size: 16px"><b>&emsp;密码&emsp;</b></span>
+				<input type = "password" class = "form-control" placeholder="请设置登陆密码" />
+				<br />
+				<span style="font-size: 12px;">
+	        		<input type="checkbox" style="width: 20px;height: 20px;margin-left: 64px;" >
+	        		阅读并接受《百度用户协议》及《百度隐私权保护声明》
+	      		</span>
+	 			<br />
+	 			<br />
+	 			<input type = "button" value = "注册" class = "btn btn-primary" style="margin-left: 64px" />
+			</div>
+			<!-- 提示信息 -->
+			<div id="check" class="content">
+				<div>
+					设置后不可更改
+					<br />
+					中英文均可，最长14个英文或7个汉字
+					
+				</div>
+				<br />
+				<div>
+					请输入中国大陆手机号码，其他用户不可见
+				</div>
+				<br />
+				<div><br /></div>
+				<br />
+				<div >
+					长度为6-14个字符
+					<br />
+					支持数字大小写字母和标点符号
+					<br />
+					不允许有空格
+					</ul>
+				</div>
+			</div>
+			<div class="content " id="phone"></div>
+		</div>
+		
+		
+	</body>
+</html>
