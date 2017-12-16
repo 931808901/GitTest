@@ -1,0 +1,5 @@
+staff_id,name,age,phone,dept,enroll_date
+1,Wang,22,13651054608,Market,2013.4.1
+2,Jack Wang,30,13351054609,HR,2014.4.2
+3,Rain Liu,25,13151054610,Sales,2015.4.3
+4,Mack Gao,40,13751054611,HR,2016.4.4

@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df92ad4f-8131-4e15-b407-369c4b10a43b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="01Server.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1025/demos/W5/day3/01Server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="24" column="52" lean-forward="false" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webserver.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/webserver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="545">
+              <caret line="25" column="34" lean-forward="false" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webserverUrl.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/webserverUrl.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="29" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/html/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tempt.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/tempt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-850">
+              <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+              <folding>
+                <element signature="e#16#61#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02Client.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1025/demos/W5/day3/02Client.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01HelloThread.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1025/demos/W4/day1/01HelloThread.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="25" column="21" lean-forward="false" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02SyncAsync.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1025/demos/W4/day1/02SyncAsync.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+              <folding>
+                <element signature="e#57#73#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/1025/client2.py" />
+        <option value="$PROJECT_DIR$/1025/THTCPServer.py" />
+        <option value="$PROJECT_DIR$/1025/day4/00HmClient.py" />
+        <option value="$PROJECT_DIR$/1025/W4/day1/03ThreadConflict.py" />
+        <option value="$PROJECT_DIR$/1025/W3/day2/WordCounter.py" />
+        <option value="$PROJECT_DIR$/1025/W3/day1/TkinterExample1.py" />
+        <option value="$PROJECT_DIR$/day1/06RegHandlerHtml.py" />
+        <option value="$PROJECT_DIR$/day1/1027.html" />
+        <option value="$PROJECT_DIR$/homework/reporterArtical.py" />
+        <option value="$PROJECT_DIR$/homework/news.py" />
+        <option value="$PROJECT_DIR$/1025/demos/W6/day1/01GetUrls.py" />
+        <option value="$PROJECT_DIR$/day1/test2.py" />
+        <option value="$PROJECT_DIR$/day1/mytest.py" />
+        <option value="$PROJECT_DIR$/day1/getImg.py" />
+        <option value="$PROJECT_DIR$/day1/getEmail.py" />
+        <option value="$PROJECT_DIR$/day1/test123.py" />
+        <option value="$PROJECT_DIR$/1025/demos/W3/day1/TkinterExample1.py" />
+        <option value="$PROJECT_DIR$/1025/demos/W3/day1/TkinterExample2.py" />
+        <option value="$PROJECT_DIR$/day1/getStackFund.py" />
+        <option value="$PROJECT_DIR$/day1/test.py" />
+        <option value="$PROJECT_DIR$/day1/getEmail3.py" />
+        <option value="$PROJECT_DIR$/1025/demos/W6/day2/06GetEmailVast.py" />
+        <option value="$PROJECT_DIR$/1025/demos/W6/day2/99GetEmailVastThreading.py" />
+        <option value="$PROJECT_DIR$/1025/W6/statistics.py" />
+        <option value="$PROJECT_DIR$/1025/W6/pyplot01.py" />
+        <option value="$PROJECT_DIR$/1025/W6/review.py" />
+        <option value="$PROJECT_DIR$/1025/exercise/TheAnswerForS1Test.py" />
+        <option value="$PROJECT_DIR$/1025/demos/W4/day2/03ThreadScheduling.py" />
+        <option value="$PROJECT_DIR$/1025/demos/W4/day2/04ThreadPool.py" />
+        <option value="$PROJECT_DIR$/1025/demos/W4/day2/06ThreadLocal.py" />
+        <option value="$PROJECT_DIR$/1025/demos/W4/day3/01CreateProcess.py" />
+        <option value="$PROJECT_DIR$/homework/exercise/SZ1701-S1阶段测试.txt" />
+        <option value="$PROJECT_DIR$/homework/exercise/TheAnswerForS1Test.py" />
+        <option value="$PROJECT_DIR$/1025/demos/W5/day1/03JsonDemo.py" />
+        <option value="$PROJECT_DIR$/1025/demos/W6/day3/02StockAnalysis.py" />
+        <option value="$PROJECT_DIR$/homework/exercise/test1.py" />
+        <option value="$PROJECT_DIR$/homework/exercise/test.py" />
+        <option value="$PROJECT_DIR$/1025/demos/W6/day3/01Probability.py" />
+        <option value="$PROJECT_DIR$/1025/demos/W4/day3/03ProcessCommunication.py" />
+        <option value="$PROJECT_DIR$/1025/demos/MyTest.py" />
+        <option value="$PROJECT_DIR$/1025/demos/W4/day1/04DeadLock.py" />
+        <option value="$PROJECT_DIR$/1025/demos/W4/day4/02Generator.py" />
+        <option value="$PROJECT_DIR$/homework/test.py" />
+        <option value="$PROJECT_DIR$/1025/demos/W1/day2/02MyTurtle.py" />
+        <option value="$PROJECT_DIR$/1025/demos/W4/day1/03ThreadConflict.py" />
+        <option value="$PROJECT_DIR$/homework/test2.py" />
+        <option value="$PROJECT_DIR$/homework/test.html" />
+        <option value="$PROJECT_DIR$/web/webserver.py" />
+        <option value="$PROJECT_DIR$/web/webserverUrl.py" />
+        <option value="$PROJECT_DIR$/web/html/index.html" />
+        <option value="$PROJECT_DIR$/web/tempt.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="F:/workspace/Monkey_performance" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\day1\week1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.tempt">
+    <configuration default="false" name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="day1" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="02MyTurtle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1025/demos/W1/day2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="day1" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1025/demos/W1/day2/02MyTurtle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="webserver" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="day1" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web/webserver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="webserverUrl" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="day1" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web/webserverUrl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="tempt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="day1" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web/tempt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="day1" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="day1" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="day1" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="day1" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="day1" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="day1" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="day1" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.test2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.02MyTurtle" />
+      <item index="2" class="java.lang.String" itemvalue="Python.webserver" />
+      <item index="3" class="java.lang.String" itemvalue="Python.webserverUrl" />
+      <item index="4" class="java.lang.String" itemvalue="Python.tempt" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.tempt" />
+        <item index="1" class="java.lang.String" itemvalue="Python.webserverUrl" />
+        <item index="2" class="java.lang.String" itemvalue="Python.webserver" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.02MyTurtle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df92ad4f-8131-4e15-b407-369c4b10a43b" name="Default" comment="" />
+      <created>1495025260875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1495025260875</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23352855" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34596375" sideWeight="0.27525622" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3476112" sideWeight="0.7247438" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3160535" sideWeight="0.81497794" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23568282" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32784185" sideWeight="0.4941435" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="339" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/1025/demos/W6/day3/04AnalysisDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W6/day3/03Pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="96" column="22" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="96" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W6/day3/02StockAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-596">
+          <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1/three_menu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/exercise/TheAnswerForS1Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/W6/pyplot01.py" />
+    <entry file="file://$PROJECT_DIR$/1025/W6/review.py" />
+    <entry file="file://$PROJECT_DIR$/1025/demos/W5/day5/03PreCompile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="26" column="36" lean-forward="true" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W5/res/02ExcelExample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1246">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W5/day5/05ReFlag.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-221">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W5/day5/04FrequentRE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="37" column="33" lean-forward="true" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W5/day5/02MatchSearchFindallSub.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="41" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W5/res/HttpHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="24" column="15" lean-forward="true" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W5/day5/01Pymysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-225">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W5/day4/00HmServer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="69" column="36" lean-forward="false" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W6/day1/01GetUrls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="21" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W6/day1/02GetImgs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-721">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W6/day1/03GetImgs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-375">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W6/day1/04GetJsonData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1510">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W6/day1/05GetEmails.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-375">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W6/day2/02GetStockFunds.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1221">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W6/day2/04DeepVastTraverse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1471">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W6/day2/03GetStockHistory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-560">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W6/day2/01GetStockList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-446">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W6/day1/SpiderUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W5/day4/00HmClient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1175">
+          <caret line="54" column="45" lean-forward="false" selection-start-line="54" selection-start-column="40" selection-end-line="54" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W5/day3/07ThreadingTCPServer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1129">
+          <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W5/day5/预习/01HelloRegexExpression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W5/res/1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1/test.py" />
+    <entry file="file://$PROJECT_DIR$/week1/shopping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="202" column="21" lean-forward="true" selection-start-line="202" selection-start-column="21" selection-end-line="202" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W6/day3/01Probability.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W1/day2/turtle_docstringdict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="318" column="0" lean-forward="false" selection-start-line="318" selection-start-column="0" selection-end-line="318" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W1/day2/02MyTurtle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="46" column="21" lean-forward="false" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W3/myplane/01GUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W4/day1/03ThreadConflict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="36" column="4" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W4/day1/04DeadLock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W4/day1/06ColdWar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="39" column="23" lean-forward="true" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W4/day1/05AccountDeadlock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="44" column="27" lean-forward="false" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="20" column="46" lean-forward="true" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W4/day1/02SyncAsync.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+          <folding>
+            <element signature="e#57#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W5/day3/02Client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W4/day1/01HelloThread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="25" column="21" lean-forward="false" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025/demos/W5/day3/01Server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="52" lean-forward="false" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/webserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="25" column="34" lean-forward="false" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/webserverUrl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="29" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/tempt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-850">
+          <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding>
+            <element signature="e#16#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
